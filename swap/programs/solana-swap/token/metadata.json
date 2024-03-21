@@ -1,0 +1,10 @@
+{
+  "name": "MOVE",
+  "symbol": "MOVE",
+  "description": "Simple Token for demo",
+  "seller_fee_basis_points": 0,
+  "external_url": "",
+  "edition": "Class of 2021",
+  "background_color": "000000",
+  "image": "https://assets.coingecko.com/coins/images/28917/large/BlueMoveCoin.png?1675742074"
+}
